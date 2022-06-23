@@ -1,0 +1,10 @@
+! name: 3d Printing
+! description: 3d Printing
+! public: false
+! author: anonbox
+! avatar: #eb2e00
+
+
+
+$boost=3,site=https://www.printables.com/
+$boost=3,site=https://help.prusa3d.com/
