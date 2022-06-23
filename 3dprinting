@@ -1,16 +1,9 @@
-! name: Tech blogs
-! description: Rerank results to boost content on tech blogs. List of tech blogs drawn from several sources (blogsurf.io, refined.blog, et al), and not vetted or endorsed by Brave.
-! public: true
-! author: Goggles 101
-! avatar: #9244e0
+! name: 3d Printing
+! description: 3d Printing
+! public: false
+! author: anonbox
+! avatar: #eb2e00
 
-$discard
-$downrank,site=medium.com
 
-$boost=1,site=github.io
-$boost=1,site=micro.blog
-/blog.$boost=1
-/blog/$boost=1
-/engineering.$boost=2
 
-$boost=3,site=0x65.dev
+$boost=3,site=printables.com
