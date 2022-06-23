@@ -1,6 +1,6 @@
 ! name: Youtube Alternatives 
-! description: Remove youtube from search
-! public: false
+! description: Removes youtube from search results and replaces it with alternative video sites
+! public: true
 ! author: anonbox
 ! avatar: #05878a
 
@@ -13,3 +13,5 @@ $boost=3,site=rumble.com
 
 $boost=2,site=peertube.live
 $boost=2,site=bitchute.com
+$boost=2,site=tv.gab.com
+$boost=2,site=yewtu.be
