@@ -8,8 +8,9 @@
 $discard
 
 
-$boost=3,site=odysee.com
+$boost=5,site=odysee.com
+
 $boost=3,site=rumble.com
 
-$boost=2,site=peertube.live
-$boost=2,site=bitchute.com
+$boost=1,site=peertube.live
+$boost=1,site=bitchute.com
