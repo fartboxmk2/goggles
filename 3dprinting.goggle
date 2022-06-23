@@ -8,3 +8,5 @@
 
 $boost=3,site=printables.com
 $boost=3,site=help.prusa3d.com
+
+/support/print-quality-troubleshooting^$boost=3,site=simplify3d.com
