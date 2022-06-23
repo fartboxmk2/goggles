@@ -8,9 +8,8 @@
 $discard
 
 
-$boost=3,site=printables.com
 $boost=3,site=help.prusa3d.com
-$boost=3,site=all3dp.com
-
 /support/materials-guide/^$boost=3,site=simplify3d.com
 /support/print-quality-troubleshooting/^$boost=3,site=simplify3d.com
+
+$boost=2,site=all3dp.com
