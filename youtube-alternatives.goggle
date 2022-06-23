@@ -1,0 +1,14 @@
+! name: Youtube Alternatives 
+! description: Remove youtube from search
+! public: false
+! author: anonbox
+! avatar: #05878a
+
+
+$discard
+
+
+$boost=3,site=odysee.com
+$boost=3,site=rumble.com
+$boost=3,site=sepiasearch.org
+$boost=3,site=bitchute.com
