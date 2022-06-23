@@ -6,5 +6,5 @@
 
 
 
-$boost=3,site=https://www.printables.com/
-$boost=3,site=https://help.prusa3d.com/
+$boost=3,site=printables.com/
+$boost=3,site=help.prusa3d.com/
