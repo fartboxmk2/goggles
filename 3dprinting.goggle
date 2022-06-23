@@ -13,3 +13,5 @@ $boost=3,site=help.prusa3d.com
 /support/print-quality-troubleshooting/^$boost=3,site=simplify3d.com
 
 $boost=2,site=all3dp.com
+/r/3DprintingHelp/^$boost=2,site=reddit.com
+
